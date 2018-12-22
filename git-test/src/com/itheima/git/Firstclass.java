@@ -8,6 +8,7 @@ public class Firstclass {
         System.out.println("hehe");
         System.out.println("hehe");
         System.out.println("hehe");
+        //hello
     }
     public void test(){
         int i=0;
